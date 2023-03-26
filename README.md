@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there 👋
-
 
 ### Get In Touch
 <a href="mailto:matthew.almeida@sbcglobal.net"><img src="https://img.shields.io/badge/yahoo-6001D2?style=for-the-badge&logo=yahoo&logoColor=white"></a> <a href="https://www.linkedin.com/in/matthew-almeida-103425183/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
