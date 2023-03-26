@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!-- ### My Favorite Project Repos -->
 <p></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Imthechosen1&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Imthechosen0ne&theme=radical)](https://git.io/streak-stats)
 
 ![Matthews's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imthechosen0ne&count_private=true&theme=radical)
 
