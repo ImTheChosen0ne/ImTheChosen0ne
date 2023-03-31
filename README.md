@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Imthechosen0ne&theme=radical)](https://git.io/streak-stats)
 
-![Matthews's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imthechosen0ne&count_private=true&theme=radical)
+<!-- ![Matthews's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imthechosen0ne&count_private=true&theme=radical) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imthechosen0ne&layout=compact&theme=radical)](https://github.com/Imthechosen0ne/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imthechosen0ne&layout=compact&theme=radical)](https://github.com/Imthechosen0ne/github-readme-stats) -->
 
