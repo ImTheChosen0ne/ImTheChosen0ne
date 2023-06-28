@@ -34,9 +34,9 @@
 
 🔭 I’m currently working on ...
   
-<a href="https://github.com/ImTheChosen0ne/API-project"><img src="https://img.shields.io/badge/Vacabnb-c6e2ff?style=for-the-badge&logoColor=white"></a>
-<a href="https://github.com/ImTheChosen0ne/Capstone-project"><img src="https://img.shields.io/badge/AnimeVibes-db2153?style=for-the-badge&logoColor=white"></a>
-<a href="https://github.com/xShirokuma/etsy-clone"><img src="https://img.shields.io/badge/Shopsy-fdd3a2?style=for-the-badge&logoColor=white"></a>
+<a href="https://authenticate-me-3j8h.onrender.com"><img src="https://img.shields.io/badge/Vacabnb-c6e2ff?style=for-the-badge&logoColor=white"></a>
+<a href="https://animevibes.onrender.com"><img src="https://img.shields.io/badge/AnimeVibes-db2153?style=for-the-badge&logoColor=white"></a>
+<a href="https://shopsy-scjf.onrender.com/"><img src="https://img.shields.io/badge/Shopsy-fdd3a2?style=for-the-badge&logoColor=white"></a>
 
 <br />
 
