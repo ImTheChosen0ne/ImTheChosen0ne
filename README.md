@@ -34,7 +34,7 @@ Check out [My Portfolio](https://imthechosen0ne.github.io/)
 
 ### My Favorite Project Repos
  
-🔭 I’m currently working on ...
+<!-- 🔭 I’m currently working on ...  -->
   
 <a href="https://authenticate-me-3j8h.onrender.com"><img src="https://img.shields.io/badge/Vacabnb-c6e2ff?style=for-the-badge&logoColor=white"></a>
 <a href="https://animevibes.onrender.com"><img src="https://img.shields.io/badge/AnimeVibes-db2153?style=for-the-badge&logoColor=white"></a>
