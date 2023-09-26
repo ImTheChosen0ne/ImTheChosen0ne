@@ -26,18 +26,27 @@ Check out [My Portfolio](https://imthechosen0ne.github.io/)
 <br />
 <img src="https://img.shields.io/badge/render-46E3B7?style=for-the-badge&logo=render&logoColor=white"> ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 <p>...and more to come!</p>
-<br />
-🌱 I’m currently learning ...
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+Courses/Certificates/Certifications
+-
+Supervised Machine Learning: Regression and Classification
+<br />
+
+🌱 **I’m currently learning ...**
+-
+[Machine Learning Specialization (DeepLearning.AI and Stanford University)](https://www.coursera.org/programs/online-learning-from-your-dol-mid-hudson-region-i7g00/specializations/machine-learning-introduction?authProvider=nyslabor)
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <br />
 AWS Certified Cloud Practitioner
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-<br />
 
-### My Favorite Project Repos
- 
+
+My Favorite Project Repos
+-
 <!-- 🔭 I’m currently working on ...  -->
   
 <a href="https://vacabnb.onrender.com"><img src="https://img.shields.io/badge/Vacabnb-c6e2ff?style=for-the-badge&logoColor=white"></a>
