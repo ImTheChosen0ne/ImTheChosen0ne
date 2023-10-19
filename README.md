@@ -37,7 +37,7 @@ Supervised Machine Learning: Regression and Classification
 [Machine Learning Specialization (DeepLearning.AI and Stanford University)](https://www.coursera.org/programs/online-learning-from-your-dol-mid-hudson-region-i7g00/specializations/machine-learning-introduction?authProvider=nyslabor)
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <br />
