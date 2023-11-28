@@ -31,7 +31,14 @@ Check out [My Portfolio](https://imthechosen0ne.github.io/)
 
 Courses/Certificates/Certifications
 -
+
+![aws-certified-cloud-practitioner](https://github.com/ImTheChosen0ne/ImTheChosen0ne/assets/123027094/d62410da-0e5f-4c38-9ba4-b041ece06af8)
+<br />
+AWS Certified Cloud Practitioner
+
 Supervised Machine Learning: Regression and Classification
+<br />
+Advanced Learning Algorithms
 <br />
 
 🌱 **I’m currently learning ...**
@@ -39,21 +46,18 @@ Supervised Machine Learning: Regression and Classification
 [Machine Learning Specialization (DeepLearning.AI and Stanford University)](https://www.coursera.org/programs/online-learning-from-your-dol-mid-hudson-region-i7g00/specializations/machine-learning-introduction?authProvider=nyslabor)
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <br />
-AWS Certified Cloud Practitioner
 
 
 
 My Favorite Project Repos
 -
 <!-- 🔭 I’m currently working on ...  -->
-  
-<a href="https://vacabnb.onrender.com"><img src="https://img.shields.io/badge/Vacabnb-c6e2ff?style=for-the-badge&logoColor=white"></a>
-<a href="https://animevibes.onrender.com"><img src="https://img.shields.io/badge/AnimeVibes-db2153?style=for-the-badge&logoColor=white"></a>
-<a href="https://shopsy-7gzf.onrender.com/"><img src="https://img.shields.io/badge/Shopsy-fdd3a2?style=for-the-badge&logoColor=white"></a>
+<a href="https://github.com/ImTheChosen0ne/Dont-Wreck-My-House"><img src="https://img.shields.io/badge/Don't%20Wreck%20My%20House-orange?style=for-the-badge&logoColor=white"></a>  
+<a href="https://github.com/ImTheChosen0ne/Vacabnb"><img src="https://img.shields.io/badge/Vacabnb-c6e2ff?style=for-the-badge&logoColor=white"></a>
+<a href="https://github.com/ImTheChosen0ne/AnimeVibes"><img src="https://img.shields.io/badge/AnimeVibes-db2153?style=for-the-badge&logoColor=white"></a>
+<a href="https://github.com/xShirokuma/etsy-clone"><img src="https://img.shields.io/badge/Shopsy-fdd3a2?style=for-the-badge&logoColor=white"></a>
 
 <br />
 
