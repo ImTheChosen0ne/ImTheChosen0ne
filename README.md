@@ -46,10 +46,7 @@ Advanced Learning Algorithms
 [Machine Learning Specialization (DeepLearning.AI and Stanford University)](https://www.coursera.org/programs/online-learning-from-your-dol-mid-hudson-region-i7g00/specializations/machine-learning-introduction?authProvider=nyslabor)
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
 <br />
-
-
 
 My Favorite Project Repos
 -
