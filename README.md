@@ -38,20 +38,26 @@ Courses/Certificates/Certifications
 <br />
 AWS Certified Cloud Practitioner
 
+[Machine Learning Specialization (DeepLearning.AI and Stanford University)](https://www.coursera.org/programs/online-learning-from-your-dol-mid-hudson-region-i7g00/specializations/machine-learning-introduction?authProvider=nyslabor)
+<br />
 Supervised Machine Learning: Regression and Classification
 <br />
 Advanced Learning Algorithms
 <br />
+Unsupervised Learning, Recommenders, Reinforcement Learning
 
 🌱 **I’m currently learning ...**
 -
-[Machine Learning Specialization (DeepLearning.AI and Stanford University)](https://www.coursera.org/programs/online-learning-from-your-dol-mid-hudson-region-i7g00/specializations/machine-learning-introduction?authProvider=nyslabor)
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 <br />
 
+🔭 I’m currently working on ...
+
+<a href="https://github.com/ImTheChosen0ne/CineVerse"><img src="https://img.shields.io/badge/CineVerse-yellow?style=for-the-badge&logoColor=white"></a>  
+
 My Favorite Project Repos
--
+
 <!-- 🔭 I’m currently working on ...  -->
 <a href="https://github.com/ImTheChosen0ne/Dont-Wreck-My-House"><img src="https://img.shields.io/badge/Don't%20Wreck%20My%20House-orange?style=for-the-badge&logoColor=white"></a>  
 <a href="https://github.com/ImTheChosen0ne/Vacabnb"><img src="https://img.shields.io/badge/Vacabnb-c6e2ff?style=for-the-badge&logoColor=white"></a>
